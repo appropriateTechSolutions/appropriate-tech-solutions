@@ -1,0 +1,19 @@
+{
+    "name": "appropriate-tech-solutions",
+    "version": "0.1.0",
+    "private": true,
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "start": "next start"
+    },
+    "dependencies": {
+        "framer-motion": "^12.4.7",
+        "gray-matter": "^4.0.3",
+        "next": "latest",
+        "react": "latest",
+        "react-dom": "latest",
+        "remark": "^14.0.2",
+        "remark-html": "^15.0.1"
+    }
+}
